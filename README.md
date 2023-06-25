@@ -10,7 +10,7 @@ O código foi organizado em funções para facilitar a legibilidade e reutiliza�
 
 Durante o desenvolvimento do código, foram encontrados alguns problemas, como erros de leitura e conversão de inteiros longos. Esses problemas foram resolvidos fazendo uso correto das funções e bibliotecas apropriadas como o gmpy2 ou bigInt
 
-Para testar o código, é recomendado utilizar casos de teste que incluam diferentes chaves públicas e textos criptografados. Verifique se o texto descriptografado corresponde ao texto original e se o arquivo de saída é gerado corretamente, nesse caso os números 3 e 5 foram utilizados mas como teste outros números inteiros primos poderiam ter sido utilizados nesse projeto.
+Para testar o código, utilizamos casos de teste que incluiam diferentes chaves públicas e textos criptografados. Verificando se o texto descriptografado corresponde ao texto original e se o arquivo de saída é gerado corretamente, nesse caso os números 3 e 5 foram utilizados mas como teste outros números inteiros primos poderiam ter sido utilizados nesse projeto.
 
 Outras Bibliotecas parecidas:
 
